@@ -9,3 +9,6 @@ which is in file named "Ques 2 & 3 "
 For Question no. 4, 5, 6 & 7 
 I used DataScientist.csv file to create visualization, treat outliers using boxplot and create new columns ( Max_salary, Min_salary, Avg_salary)
 which is in file "Ques 4 & 5 & 6 & 7"
+
+For Question no. 14
+I used website books.toscrape to extract Title, Price, Rating, Availability of a book and export csv file to books.csv
